@@ -1,5 +1,9 @@
 # Lottie Animation View for React ([Angular](https://github.com/chenqingspring/ng-lottie), [Vue](https://github.com/chenqingspring/vue-lottie))
 
+## Archive Status
+
+This fork of Lottie is no longer in use so the repo has been archived.
+
 [![npm version](https://badge.fury.io/js/react-lottie.svg)](http://badge.fury.io/js/react-lottie)
 
 ## Demo
